@@ -1,5 +1,3 @@
-👋 Hi, I’m @vg-3
-👀 I’m interested in ...
-🌱 I’m currently learning ... js ,java
-💞️ I’m looking to collaborate on ...
+👋 Hi, I’m Varshith Gowda V
+🌱 I’m currently learning ... js,java,react_js
 📫 How to reach me ... varshithchitti@gmail.com
